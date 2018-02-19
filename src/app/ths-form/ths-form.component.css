@@ -1,0 +1,29 @@
+h2{
+  text-align: center;
+  padding-bottom: 15px;
+  color: gray
+}
+
+h6{
+  text-align: left;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  color: rgb(25, 202, 173);
+}
+
+h2 h6{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+thead {
+  display: table-header-group;
+}
+
+button{
+  float:right; 
+  margin-bottom: 5px;
+}
+
+.td-th-center{
+  text-align: center
+}
